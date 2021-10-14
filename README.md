@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neeshamraghav012
+- 👋 Hi, I’m Neesham
 - 👀 I’m interested in Generative machine learning models
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on Entertainment Virtual Events.
