@@ -1,7 +1,12 @@
 
   <p align="center">
     <img width="600" height="400" src="https://wallpapercave.com/wp/wp7749331.jpg" alt="my banner">
+  
+
   </p>
+  
+  ####  # Beautiful code is short and concise, so if you were to give that code to another programmer they would say, "oh, that's well written code." It's much like as if you were writing a poem
+  
   <hr>
 
 
@@ -32,11 +37,11 @@
 
   <p align = "center"> 
     <h1>Some Insigths;</h1>
-    <img src="https://img.shields.io/github/stars/Neeshamraghav012?style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/Neeshamraghav012?style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Neesham&style=flat-square&color=blue" widht="40" height="40" alt="Profile Visits"/>
-    <img src = "https://github-readme-stats.vercel.app/api?username=Neeshamraghav012">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeshamraghav012">
+      <img src="https://img.shields.io/github/stars/Neeshamraghav012?style=for-the-badge">
+      <img src="https://img.shields.io/github/followers/Neeshamraghav012?style=for-the-badge">
+      <img src="https://komarev.com/ghpvc/?username=Neesham&style=flat-square&color=blue" alt="Profile Visits"/>
+      <img src = "https://github-readme-stats.vercel.app/api?username=Neeshamraghav012">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeshamraghav012">
   </p>
 
   # Technical Skills;
