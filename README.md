@@ -10,7 +10,7 @@
   <hr>
 
 
-<p align="center">
+<p>
     - <img src="https://user-images.githubusercontent.com/53288006/159229525-37d77d1f-e4f8-4034-9ee2-67d5091a00f8.gif" width="40"
   height="40"><strong>Hi, I’m Neesham</strong><br>
     - <img src="https://user-images.githubusercontent.com/53288006/159228674-6af76bc4-7092-48fe-af91-900008b6eef8.gif" width="40"
