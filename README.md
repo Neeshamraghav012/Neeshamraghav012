@@ -32,7 +32,6 @@
     <a href="https://www.kaggle.com/neesham">
       Kaggle
     </a>
-  
     <a href="mailto:neeshamraghav0@gmail.com">
       Email
     </a>
