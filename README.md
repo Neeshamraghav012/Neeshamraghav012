@@ -28,13 +28,13 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/neesham-raghav-ab2a8718b/">
       LinkedIn
-    </a>
+    </a><br>
     <a href="https://www.kaggle.com/neesham">
       Kaggle
-    </a>
+    </a><br>
     <a href="mailto:neeshamraghav0@gmail.com">
       Email
-    </a>
+    </a><br>
 
   </div>
 
