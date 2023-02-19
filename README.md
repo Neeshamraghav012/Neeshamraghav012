@@ -27,10 +27,14 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/neesham-raghav-ab2a8718b/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      LinkedIn
     </a>
     <a href="https://www.kaggle.com/neesham">
-      <img src="https://img.shields.io/badge/K-Kaggle-blue?style=for-the-badge&logo=appveyor" alt="Kaggle Badge"/>
+      Kaggle
+    </a>
+  
+    <a href="mailto:neeshamraghav0@gmail.com">
+      Email
     </a>
 
   </div>
