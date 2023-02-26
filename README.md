@@ -45,6 +45,7 @@
       <img src="https://komarev.com/ghpvc/?username=Neesham&style=flat-square&color=blue" alt="Profile Visits"/>
       <img src = "https://github-readme-stats.vercel.app/api?username=Neeshamraghav012">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeshamraghav012">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeshamraghav012"></img>
   </p>
 
   # Technical Skills;
@@ -57,6 +58,7 @@
   ![CI](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![CI](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![CI](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![CI](https://github-readme-activity-graph.cyclic.app/graph?username=Neeshamraghav012&theme=github-compact)
 
   <!---
   Neeshamraghav012/Neeshamraghav012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
