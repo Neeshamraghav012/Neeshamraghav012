@@ -15,6 +15,8 @@
   height="40"><strong>Hi, I’m Neesham</strong><br>
     - <img src="https://user-images.githubusercontent.com/53288006/159228674-6af76bc4-7092-48fe-af91-900008b6eef8.gif" width="40"
   height="40"> <strong>I’m interested in Generative machine learning models</strong><br>
+    -   <img src="https://user-images.githubusercontent.com/53288006/159228160-27415d5d-cc6e-4edd-8a6d-1fa99afeece8.gif" width="40"
+             height="40"><strong> I regularly publish notebooks on <a href="https://www.kaggle.com/neesham">Kaggle</a>.</strong><br>
     - <img src="https://user-images.githubusercontent.com/53288006/159229990-d3b9957a-06e1-4c04-9cf4-d3da2b89fb2d.gif" width="40" height="40"><strong>I’m currently practicing Data Science</strong><br>
     - <img src="https://user-images.githubusercontent.com/53288006/159228160-27415d5d-cc6e-4edd-8a6d-1fa99afeece8.gif" width="40"
   height="40"><strong> I’m looking to collaborate on Django, Flutter, Godot, MERN Stack and Data Science Projects</strong><br>
